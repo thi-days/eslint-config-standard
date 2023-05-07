@@ -1,0 +1,24 @@
+{
+  "name": "@thi-days/eslint-config-standard",
+  "version": "1.0.0",
+  "description": "Standard lint rules for ES6, React and Typescript",
+  "main": "index.js",
+  "scripts": {
+    "clean:all": "rm -rf node_modules",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiago Dias",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.39.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0"
+  },
+  "peerDependencies": {
+    "eslint": "^8.39.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0"
+  }
+}
