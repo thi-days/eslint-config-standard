@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Thiago Dias",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "eslint": "^8.39.0",
     "eslint-plugin-import": "^2.27.5",
